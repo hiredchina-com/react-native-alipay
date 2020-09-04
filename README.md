@@ -28,7 +28,7 @@ Native AlipaySDK library ([download page](https://docs.open.alipay.com/54/104509
 
 ## Getting started
 
-`$ yarn add @0x5e/react-native-alipay`
+`$ yarn add @hiredchina-com/react-native-alipay`
 
 ### Native module installation
 
